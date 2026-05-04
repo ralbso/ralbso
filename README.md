@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on Tendril, Heat Maps and a new electrophysiology acquisition software.
+
 <!--
 **ralbso/ralbso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

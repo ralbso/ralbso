@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm currently working on Tendril, Heat Maps and a new electrophysiology acquisition software.
+I'm currently working on Bike Shed, Clima and Galley.
+Of these, only Bike Shed is public at the moment, but I can't wait to share more!
 
 <!--
 **ralbso/ralbso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
